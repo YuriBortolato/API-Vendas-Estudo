@@ -21,5 +21,17 @@
             PrecoVenda = precoVenda;
             Estoque = estoque;
         }
+
+        public void AbaterEstoque(decimal quantidade)
+        {
+            Estoque -= quantidade;
+            AtualizarDataAtualizacao();
+        }
+
+        public void AdicionarEstoque(decimal quantidade)
+        {
+            Estoque += quantidade;
+            AtualizarDataAtualizacao();
+        }
     }
 }
