@@ -10,6 +10,7 @@ namespace umfgcloud.programcaoiii.vendas.api.Contexto
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Venda> Vendas { get; set; }
         public DbSet<ItemVenda> ItensVenda { get; set; }
+        public DbSet<Vendedor> Vendedores { get; set; } //vededor adicionado
 
         public ContextoVenda(DbContextOptions<ContextoVenda> options) 
             : base(options)

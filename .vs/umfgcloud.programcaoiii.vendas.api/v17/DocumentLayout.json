@@ -1,69 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\dto\\transacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\dto\\transacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\contexto\\contextovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\contexto\\contextovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\contexto\\contextovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\contexto\\popularcontextovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\contexto\\popularcontextovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\contexto\\popularcontextovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\vendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\vendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\dto\\transacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\dto\\transacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\itemvendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\itemvendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\abstractentidademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\abstractentidademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\abstractentidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\abstractentidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\abstractentidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|d:\\umfg\\2025\\programacao iii\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\migrations\\20250930010350_migration_1_0_0_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\entidades\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\entidades\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\abstractentidademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\abstractentidademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\clientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\itemvendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\itemvendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\vendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\vendamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\mapeamentos\\vendedormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\mapeamentos\\vendedormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|c:\\users\\cliente\\downloads\\aula-01-10-2025-api-ttrabalho\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\migrations\\20250930010350_migration_1_0_0_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBEEFDF9-2373-4806-A07D-95AA8258E44A}|umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj|solutionrelative:umfgcloud.programcaoiii.vendas.api\\migrations\\20250930010350_migration_1_0_0_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,64 +82,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContextoVenda.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PopularContextoVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:51:35.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ItemVendaMap.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T00:59:13.37Z"
+              "WhenOpened": "2025-10-17T14:48:17.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ContextoVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Contexto\\ContextoVenda.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:51:35.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:40:46.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractEntidade.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:30:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:50:09.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:17:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:43:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:15:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Vendedor.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Vendedor.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Vendedor.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:06:51.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbstractEntidadeMap.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:23:58.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteMap.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:23:21.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemVendaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ItemVendaMap.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:59:13.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:23:32.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VendaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:16:19.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VendedorMap.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendedorMap.cs",
+              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendedorMap.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendedorMap.cs",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendedorMap.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:23:35.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Program.cs",
               "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Program.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Program.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Program.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAuwJgAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Program.cs*",
+              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Program.cs*",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAIwLAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T00:19:56.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Venda.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Venda.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:15:25.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "umfgcloud.programcaoiii.vendas.api.csproj",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj",
               "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj",
               "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\umfgcloud.programcaoiii.vendas.api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -139,136 +306,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProdutoMap.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ProdutoMap.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:23:32.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VendaMap.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\VendaMap.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T01:16:19.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Produto.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwCEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T01:07:30.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransacaoDTO.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\DTO\\TransacaoDTO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA2wAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T22:40:46.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClienteMap.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\ClienteMap.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:23:21.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PopularContextoVenda.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Contexto\\PopularContextoVenda.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T00:21:24.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20250930010350_Migration_1_0_0_0.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Migrations\\20250930010350_Migration_1_0_0_0.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Migrations\\20250930010350_Migration_1_0_0_0.cs",
               "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Migrations\\20250930010350_Migration_1_0_0_0.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Migrations\\20250930010350_Migration_1_0_0_0.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Downloads\\aula-01-10-2025-API-TTRABALHO\\aula-01-10-2025\\umfgcloud.programcaoiii.vendas.api\\Migrations\\20250930010350_Migration_1_0_0_0.cs",
               "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Migrations\\20250930010350_Migration_1_0_0_0.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAgwFYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T01:03:50.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AbstractEntidadeMap.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Mapeamentos\\AbstractEntidadeMap.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T00:23:58.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ItemVenda.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\ItemVenda.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T01:17:57.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:50:09.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AbstractEntidade.cs",
-              "DocumentMoniker": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
-              "RelativeDocumentMoniker": "umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
-              "ToolTip": "D:\\UMFG\\2025\\Programacao III\\aula-29-09-2025\\umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
-              "RelativeToolTip": "umfgcloud.programcaoiii.vendas.api\\Entidades\\AbstractEntidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:30:53.688Z"
             }
           ]
         }

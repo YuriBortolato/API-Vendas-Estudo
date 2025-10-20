@@ -4,6 +4,7 @@
     {
         //propriedades persistidas
         public Cliente Cliente { get; private set; }
+        public Vendedor Vendedor { get; private set; }
         public ICollection<ItemVenda> Itens { get; private set; } = [];
 
         //propriedade calculada em tempo de execuçao
@@ -13,9 +14,12 @@
         private Venda() { }
 
         //usado em produção
-        public Venda(Cliente cliente)
+
+        //usado em produção
+        public Venda(Cliente cliente, Vendedor vendedor)
         {
             Cliente = cliente ?? throw new ArgumentNullException(nameof(cliente));
+            Vendedor = vendedor ?? throw new ArgumentNullException(nameof(vendedor));
         }
 
         public void AdicionarItem(ItemVenda item)

@@ -5,6 +5,8 @@
         public sealed class TransacaoCapaRequest
         {
             public Guid IdCliente { get; set; } = Guid.Empty;
+            public Guid IdVendedor { get; set; }
+
         }
 
         public sealed class TransacaoItemRequest

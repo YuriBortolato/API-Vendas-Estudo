@@ -47,7 +47,14 @@ namespace umfgcloud.programcaoiii.vendas.api
                     if (cliente == null)
                         throw new InvalidOperationException("Cliente não cadastrado!");
 
-                    Venda venda = new Venda(cliente);
+                    Vendedor? vendedor = contexto
+                        .Vendedores
+                        .FirstOrDefault(x => x.Id == dto.IdVendedor && x.IsAtivo);
+
+                    if (vendedor == null)
+                        throw new InvalidOperationException("Vendedor não cadastrado!");
+
+                    Venda venda = new Venda(cliente, vendedor  );
 
                     contexto.Vendas.Add(venda);
                     contexto.SaveChanges();

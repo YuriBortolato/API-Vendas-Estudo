@@ -15,7 +15,7 @@ namespace umfgcloud.programcaoiii.vendas.api.Mapeamentos
             //exemplo de propriedade calculada em tempo de execução
             //e ignorada no banco de dados
             builder.Ignore(x => x.Total);
-
+            // relacionamento com cliente
             builder
                 .HasOne(x => x.Cliente)
                 .WithMany()
@@ -23,6 +23,14 @@ namespace umfgcloud.programcaoiii.vendas.api.Mapeamentos
                 .OnDelete(DeleteBehavior.Restrict)
                 .IsRequired();
 
+            // relacionamento com vendedor 
+            builder
+                .HasOne(x => x.Vendedor)
+                .WithMany()
+                .HasForeignKey("ID_VENDEDOR")
+                .OnDelete(DeleteBehavior.Restrict)
+                .IsRequired();
+            // relacionamento com itens de venda 
             builder
                 .HasMany(x => x.Itens)
                 .WithOne()
