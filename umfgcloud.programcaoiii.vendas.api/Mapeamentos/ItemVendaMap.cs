@@ -17,8 +17,8 @@ namespace umfgcloud.programcaoiii.vendas.api.Mapeamentos
             builder.Property(x => x.Total).HasColumnName("VL_TOTAL").IsRequired();
 
             //relacionamento uma para muitos com o delete restrito ou seja
-            //quando a classe filha for removida a classe pai se manterá no DB            builder.
-                HasOne(x => x.Produto)
+            //quando a classe filha for removida a classe pai se manterá no DB
+            builder.HasOne(x => x.Produto)
                 .WithMany()
                 .HasForeignKey("ID_PRODUTO")
                 .OnDelete(DeleteBehavior.Restrict)

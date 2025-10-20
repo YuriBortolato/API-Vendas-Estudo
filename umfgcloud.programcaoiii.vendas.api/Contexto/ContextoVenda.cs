@@ -17,6 +17,7 @@ namespace umfgcloud.programcaoiii.vendas.api.Contexto
             if (Database.GetPendingMigrations().Any())
             {
                 Database.Migrate();
+                PopularContextoVenda.Popular(this);
             }
         }
 
@@ -26,6 +27,8 @@ namespace umfgcloud.programcaoiii.vendas.api.Contexto
 
             modelBuilder.ApplyConfiguration(new ClienteMap());
             modelBuilder.ApplyConfiguration(new ProdutoMap());
+            modelBuilder.ApplyConfiguration(new ItemVendaMap());
+            modelBuilder.ApplyConfiguration(new VendaMap());
         }
     }
 }
