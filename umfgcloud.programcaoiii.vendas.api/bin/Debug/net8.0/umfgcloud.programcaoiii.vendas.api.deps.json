@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "umfgcloud.programcaoiii.vendas.api/1.0.0": {
+        "runtime": {
+          "umfgcloud.programcaoiii.vendas.api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "umfgcloud.programcaoiii.vendas.api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
