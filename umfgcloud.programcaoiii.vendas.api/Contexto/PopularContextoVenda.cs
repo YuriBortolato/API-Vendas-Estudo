@@ -11,6 +11,7 @@ namespace umfgcloud.programcaoiii.vendas.api.Contexto
 
             PopularCliente(contexto);
             PopularProduto(contexto);
+            PopularVendedor(contexto);
 
             contexto.SaveChanges();
         }
@@ -37,6 +38,16 @@ namespace umfgcloud.programcaoiii.vendas.api.Contexto
                 "00000000000",
                 "RUA TESTE, 999, BAIRRO TESTE, CIANORTE-PR",
                 "4436281521"));
+        }
+        private static void PopularVendedor(ContextoVenda contexto)
+        {
+            if (contexto.Vendedores.Any())
+                return;
+
+            contexto.Vendedores.Add(new Vendedor(
+                "VENDEDOR PADRÃO",
+                "vendedor@email.com",
+                "4422204659"));
         }
     }
 }

@@ -22,6 +22,21 @@
             Estoque = estoque;
         }
 
+
+        public void Atualizar(string ean, string descricao, decimal precoCompra, decimal precoVenda, decimal estoque)
+        {
+            ArgumentNullException.ThrowIfNullOrWhiteSpace(ean);
+            ArgumentNullException.ThrowIfNullOrWhiteSpace(descricao);
+
+            EAN = ean;
+            Descricao = descricao;
+            PrecoCompra = precoCompra;
+            PrecoVenda = precoVenda;
+            Estoque = estoque;
+
+            AtualizarDataAtualizacao();
+        }
+
         public void AbaterEstoque(decimal quantidade)
         {
             Estoque -= quantidade;

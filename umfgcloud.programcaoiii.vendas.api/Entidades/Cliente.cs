@@ -25,5 +25,19 @@
             Endereco = endereco.ToUpper();
             Telefone = telefone;
         }
+        public void Atualizar(string nome, string cpf, string endereco, string telefone)
+        {
+            ArgumentNullException.ThrowIfNullOrWhiteSpace(nome);
+            ArgumentNullException.ThrowIfNullOrWhiteSpace(cpf);
+            ArgumentNullException.ThrowIfNullOrWhiteSpace(endereco);
+            ArgumentNullException.ThrowIfNullOrWhiteSpace(telefone);
+
+            Nome = nome.ToUpper();
+            CPF = cpf;
+            Endereco = endereco.ToUpper();
+            Telefone = telefone;
+
+            AtualizarDataAtualizacao();
+        }
     }
 }

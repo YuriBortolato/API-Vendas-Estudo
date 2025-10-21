@@ -15,11 +15,22 @@
 
         //usado em produção
 
-        //usado em produção
         public Venda(Cliente cliente, Vendedor vendedor)
         {
             Cliente = cliente ?? throw new ArgumentNullException(nameof(cliente));
             Vendedor = vendedor ?? throw new ArgumentNullException(nameof(vendedor));
+        }
+
+        public void AtualizarCliente(Cliente cliente)
+        {
+            Cliente = cliente ?? throw new ArgumentNullException(nameof(cliente));
+            AtualizarDataAtualizacao();
+        }
+
+        public void AtualizarVendedor(Vendedor vendedor)
+        {
+            Vendedor = vendedor ?? throw new ArgumentNullException(nameof(vendedor));
+            AtualizarDataAtualizacao();
         }
 
         public void AdicionarItem(ItemVenda item)

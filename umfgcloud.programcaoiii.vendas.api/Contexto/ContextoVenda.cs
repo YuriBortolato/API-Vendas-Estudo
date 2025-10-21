@@ -10,7 +10,7 @@ namespace umfgcloud.programcaoiii.vendas.api.Contexto
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Venda> Vendas { get; set; }
         public DbSet<ItemVenda> ItensVenda { get; set; }
-        public DbSet<Vendedor> Vendedores { get; set; } //vededor adicionado
+        public DbSet<Vendedor> Vendedores { get; set; }
 
         public ContextoVenda(DbContextOptions<ContextoVenda> options) 
             : base(options)
@@ -30,6 +30,7 @@ namespace umfgcloud.programcaoiii.vendas.api.Contexto
             modelBuilder.ApplyConfiguration(new ProdutoMap());
             modelBuilder.ApplyConfiguration(new ItemVendaMap());
             modelBuilder.ApplyConfiguration(new VendaMap());
+            modelBuilder.ApplyConfiguration(new VendedorMap());
         }
     }
 }

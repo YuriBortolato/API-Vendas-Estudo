@@ -285,3 +285,14 @@ D:\UMFG\2025\Programacao III\aula-29-09-2025\umfgcloud.programcaoiii.vendas.api\
 D:\UMFG\2025\Programacao III\aula-29-09-2025\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.pdb
 D:\UMFG\2025\Programacao III\aula-29-09-2025\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.genruntimeconfig.cache
 D:\UMFG\2025\Programacao III\aula-29-09-2025\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\ref\umfgcloud.programcaoiii.vendas.api.dll
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.csproj.AssemblyReference.cache
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.AssemblyInfoInputs.cache
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.AssemblyInfo.cs
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.sourcelink.json
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.dll
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\refint\umfgcloud.programcaoiii.vendas.api.dll
+C:\Users\Cliente\Downloads\API-Vendas-Estudo\umfgcloud.programcaoiii.vendas.api\obj\Debug\net8.0\umfgcloud.programcaoiii.vendas.api.pdb
