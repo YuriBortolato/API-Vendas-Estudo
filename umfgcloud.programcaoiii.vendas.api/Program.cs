@@ -402,6 +402,96 @@ namespace umfgcloud.programcaoiii.vendas.api
                 }
             });
 
+            // GET: Listar todos os itens de UMA venda
+            app.MapGet("/vendas/{idVenda}/itens", (Guid idVenda, ContextoVenda contexto) =>
+            {
+                var vendaExiste = contexto.Vendas.Any(v => v.Id == idVenda && v.IsAtivo);
+                if (!vendaExiste)
+                    return Results.NotFound("Venda não cadastrada!");
+
+                var itensDaVenda = contexto.Vendas
+                .Where(v => v.Id == idVenda)    
+                .SelectMany(v => v.Itens)       
+                .Include(i => i.Produto)        
+                .Where(i => i.IsAtivo)          
+                .ToList();
+
+                return Results.Ok(itensDaVenda);
+            });
+
+
+            // GET: Obter UM item específico de uma venda
+            app.MapGet("/vendas/{idVenda}/itens/{idItem}", (Guid idVenda, Guid idItem, ContextoVenda contexto) =>
+            {
+                var itemVenda = contexto.Vendas
+                .Where(v => v.Id == idVenda && v.IsAtivo) 
+                .SelectMany(v => v.Itens)                
+                .Include(i => i.Produto)
+                .FirstOrDefault(i => i.Id == idItem && i.IsAtivo);
+
+                if (itemVenda == null)
+                    return Results.NotFound("Item de venda não cadastrado ou não pertence a esta venda.");
+
+                return Results.Ok(itemVenda);
+            });
+
+            // PUT: Atualizar a quantidade de um item
+            app.MapPut("/vendas/{idVenda}/itens/{idItem}", (
+                Guid idVenda,
+                Guid idItem,
+                [FromBody] TransacaoDTO.TransacaoItemRequest dto,
+                ContextoVenda contexto) =>
+            {
+                // Validação de Venda
+                var venda = contexto.Vendas
+                    .Include(v => v.Itens.Where(i => i.Id == idItem && i.IsAtivo))
+                        .ThenInclude(i => i.Produto)
+                    .FirstOrDefault(v => v.Id == idVenda && v.IsAtivo);
+
+                if (venda == null)
+                    return Results.NotFound("Venda não cadastrada!");
+
+                // Validação ItemVenda
+                var itemVenda = venda.Itens.FirstOrDefault();
+                if (itemVenda == null)
+                    return Results.NotFound("Item de venda não cadastrado nesta venda.");
+
+                var produto = itemVenda.Produto;
+                decimal antigaQuantidade = itemVenda.Quantidade;
+                decimal novaQuantidade = dto.Quantidade;
+
+                if (novaQuantidade <= 0.0m)
+                    return Results.BadRequest("Quantidade informada inválida!");
+
+                if (produto.Estoque + antigaQuantidade < novaQuantidade)
+                    return Results.BadRequest("Não há estoque suficiente para esta alteração!");
+
+                try
+                {
+                    
+                    produto.AdicionarEstoque(antigaQuantidade);
+
+                    produto.AbaterEstoque(novaQuantidade);
+
+                    itemVenda.AtualizarQuantidade(novaQuantidade);
+
+                    contexto.Produtos.Update(produto);
+                    contexto.ItensVenda.Update(itemVenda);
+                    contexto.SaveChanges();
+
+                    return Results.Ok(itemVenda);
+                }
+                catch (ArgumentException ex) 
+                {
+                    return Results.BadRequest(ex.Message);
+                }
+                catch (Exception ex)
+                {
+                    return Results.BadRequest(ex.Message);
+                }
+            });
+
+
             app.MapDelete("/vendas/{idVenda}/itens/{idItem}", (Guid idVenda,
                 Guid idItem, ContextoVenda contexto) =>
             {
