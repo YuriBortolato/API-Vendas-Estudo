@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace umfgcloud.programcaoiii.vendas.api.Migrations
 {
     /// <inheritdoc />
-    public partial class Migration_1_0_0_0 : Migration
+    public partial class CriacaoInicialCompleta : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -54,11 +54,30 @@ namespace umfgcloud.programcaoiii.vendas.api.Migrations
                 .Annotation("MySQL:Charset", "utf8mb4");
 
             migrationBuilder.CreateTable(
+                name: "VENDEDOR",
+                columns: table => new
+                {
+                    ID = table.Column<Guid>(type: "char(36)", nullable: false),
+                    NM_VENDEDOR = table.Column<string>(type: "varchar(100)", maxLength: 100, nullable: false),
+                    DS_EMAIL = table.Column<string>(type: "varchar(150)", maxLength: 150, nullable: false),
+                    NR_TELEFONE = table.Column<string>(type: "varchar(20)", maxLength: 20, nullable: true),
+                    IN_ATIVO = table.Column<bool>(type: "tinyint(1)", nullable: false),
+                    DT_CRIACAO = table.Column<DateTime>(type: "datetime(6)", nullable: false),
+                    DT_ATUALIZACAO = table.Column<DateTime>(type: "datetime(6)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_VENDEDOR", x => x.ID);
+                })
+                .Annotation("MySQL:Charset", "utf8mb4");
+
+            migrationBuilder.CreateTable(
                 name: "VENDA",
                 columns: table => new
                 {
                     ID = table.Column<Guid>(type: "char(36)", nullable: false),
                     ID_CLIENTE = table.Column<Guid>(type: "char(36)", nullable: false),
+                    ID_VENDEDOR = table.Column<Guid>(type: "char(36)", nullable: false),
                     IN_ATIVO = table.Column<bool>(type: "tinyint(1)", nullable: false),
                     DT_CRIACAO = table.Column<DateTime>(type: "datetime(6)", nullable: false),
                     DT_ATUALIZACAO = table.Column<DateTime>(type: "datetime(6)", nullable: false)
@@ -70,6 +89,12 @@ namespace umfgcloud.programcaoiii.vendas.api.Migrations
                         name: "FK_VENDA_CLIENTE_ID_CLIENTE",
                         column: x => x.ID_CLIENTE,
                         principalTable: "CLIENTE",
+                        principalColumn: "ID",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_VENDA_VENDEDOR_ID_VENDEDOR",
+                        column: x => x.ID_VENDEDOR,
+                        principalTable: "VENDEDOR",
                         principalColumn: "ID",
                         onDelete: ReferentialAction.Restrict);
                 })
@@ -121,6 +146,17 @@ namespace umfgcloud.programcaoiii.vendas.api.Migrations
                 name: "IX_VENDA_ID_CLIENTE",
                 table: "VENDA",
                 column: "ID_CLIENTE");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_VENDA_ID_VENDEDOR",
+                table: "VENDA",
+                column: "ID_VENDEDOR");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_VENDEDOR_DS_EMAIL",
+                table: "VENDEDOR",
+                column: "DS_EMAIL",
+                unique: true);
         }
 
         /// <inheritdoc />
@@ -137,6 +173,9 @@ namespace umfgcloud.programcaoiii.vendas.api.Migrations
 
             migrationBuilder.DropTable(
                 name: "CLIENTE");
+
+            migrationBuilder.DropTable(
+                name: "VENDEDOR");
         }
     }
 }
